@@ -1,0 +1,10 @@
+com\jaya\sexoffenderapp\controller\AddressController.class
+com\jaya\sexoffenderapp\model\OffenderResponse.class
+com\jaya\sexoffenderapp\model\AddressRequest.class
+com\jaya\sexoffenderapp\service\OffenderService.class
+com\jaya\sexoffenderapp\controller\OffenderController.class
+com\jaya\sexoffenderapp\service\AddressValidationService.class
+com\jaya\sexoffenderapp\model\AddressResponse.class
+com\jaya\sexoffenderapp\SexoffenderappApplication.class
+com\jaya\sexoffenderapp\model\OffenderRequest.class
+com\jaya\sexoffenderapp\model\StandardizedAddress.class
